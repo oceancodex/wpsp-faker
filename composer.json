@@ -7,7 +7,7 @@
 	"license": "MIT",
 	"require": {
 		"php": "^8.1",
-		"fakerphp/faker": "^v1.23.1"
+		"fakerphp/faker": "^v1.24.1"
 	},
 	"config": {
 		"sort-packages": true

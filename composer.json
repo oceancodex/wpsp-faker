@@ -1,12 +1,12 @@
 {
 	"name": "oceancodex/wpsp-faker",
-	"version": "8.3.0",
+	"version": "8.4.0",
 	"description": "WordPress Starter Plugin - Faker",
 	"keywords": [
 	],
 	"license": "MIT",
 	"require": {
-		"php": "^8.3",
+		"php": "^8.4",
 		"fakerphp/faker": "^v1.24.1"
 	},
 	"config": {
